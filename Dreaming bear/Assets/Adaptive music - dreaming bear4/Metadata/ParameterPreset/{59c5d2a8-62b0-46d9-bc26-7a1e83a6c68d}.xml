@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{59c5d2a8-62b0-46d9-bc26-7a1e83a6c68d}">
+		<property name="name">
+			<value>Teddy Room</value>
+		</property>
+		<relationship name="folder">
+			<destination>{3a77c689-cd0c-4497-98d1-b502e2b0ce40}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{77b52c00-ce50-4467-a8df-ddd8b5c798e8}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{77b52c00-ce50-4467-a8df-ddd8b5c798e8}">
+		<property name="parameterType">
+			<value>7</value>
+		</property>
+		<property name="minimum">
+			<value>-180</value>
+		</property>
+		<property name="maximum">
+			<value>180</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

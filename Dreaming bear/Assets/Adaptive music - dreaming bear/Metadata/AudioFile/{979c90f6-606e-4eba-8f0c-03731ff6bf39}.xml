@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{979c90f6-606e-4eba-8f0c-03731ff6bf39}">
+		<property name="assetPath">
+			<value>475681__liezen3__synthethic-violin.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>25.633378684807255</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0153bfa5-6993-438b-831d-66c118b33d9e}</destination>
+		</relationship>
+	</object>
+</objects>

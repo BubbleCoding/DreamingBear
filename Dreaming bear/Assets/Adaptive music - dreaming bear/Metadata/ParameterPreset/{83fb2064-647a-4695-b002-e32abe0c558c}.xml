@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{83fb2064-647a-4695-b002-e32abe0c558c}">
+		<property name="name">
+			<value>Scene</value>
+		</property>
+		<relationship name="folder">
+			<destination>{3a77c689-cd0c-4497-98d1-b502e2b0ce40}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{20219470-aacf-4a10-8bf8-c4aa2d7d0569}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{20219470-aacf-4a10-8bf8-c4aa2d7d0569}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>4</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Main</value>
+			<value>Interface</value>
+			<value>TeddyRoom</value>
+			<value>SecretHallway</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

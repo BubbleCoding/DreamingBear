@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{95d03cb2-a370-4696-8f90-ddc95be73ec3}">
+		<property name="assetPath">
+			<value>harmonics track-003.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>67.198299319727894</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0153bfa5-6993-438b-831d-66c118b33d9e}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{04231b8d-c13c-48d7-881a-25a6b35ac3c6}">
+		<property name="assetPath">
+			<value>jump sfx.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.5296145124716554</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0153bfa5-6993-438b-831d-66c118b33d9e}</destination>
+		</relationship>
+	</object>
+</objects>

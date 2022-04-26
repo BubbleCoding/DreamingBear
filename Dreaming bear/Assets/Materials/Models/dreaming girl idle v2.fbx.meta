@@ -1,0 +1,763 @@
+fileFormatVersion: 2
+guid: 0f646c6a8930f0149a113523e876fc2d
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Idle v1
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_LeftLeg'
+      has translation animation that will be discarded.\n\t'smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_RightLeg'
+      has translation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle v1
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 71
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: dreaming girl idle v2(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:smooth_girl
+      parentName: dreaming girl idle v2(Clone)
+      position: {x: 0.000006545782, y: 0.028047785, z: -0.0008592002}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Guides
+      parentName: dreaming girl idle v2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:Head
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Guides
+      position: {x: 0.0000065445897, y: 0.044399884, z: -0.0013220295}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:Hips
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Guides
+      position: {x: 0.0000065445897, y: 0.028973063, z: -0.00058055506}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:LeftArm
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Guides
+      position: {x: -0.0059152446, y: 0.036903027, z: -0.0011105997}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:LeftFoot
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Guides
+      position: {x: -0.003315313, y: 0.0032430133, z: -0.00028341208}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:LeftForeArm
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Guides
+      position: {x: -0.012672931, y: 0.029177593, z: -0.0011903859}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:LeftHand
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Guides
+      position: {x: -0.018072672, y: 0.023509275, z: -0.0010786703}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:LeftLeg
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Guides
+      position: {x: -0.0033936584, y: 0.015484393, z: -0.00043192744}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:LeftShoulder
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Guides
+      position: {x: -0.0030949302, y: 0.037100866, z: -0.0011930607}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:LeftToeBase
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Guides
+      position: {x: -0.0033662452, y: 0.0008099021, z: 0.0039181258}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:LeftUpLeg
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Guides
+      position: {x: -0.0031707596, y: 0.02694275, z: -0.00019533373}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:Neck
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Guides
+      position: {x: 0.0000065445897, y: 0.040207732, z: -0.0013229733}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:Reference
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Guides
+      position: {x: 0.0000065445897, y: 0.0011431135, z: -0.00037321652}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:RightArm
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Guides
+      position: {x: 0.005928334, y: 0.036903027, z: -0.0011105997}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:RightFoot
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Guides
+      position: {x: 0.0033284023, y: 0.0032430133, z: -0.00028341208}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:RightForeArm
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Guides
+      position: {x: 0.01268602, y: 0.029177593, z: -0.0011903859}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:RightHand
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Guides
+      position: {x: 0.018085761, y: 0.023509275, z: -0.0010786703}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:RightLeg
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Guides
+      position: {x: 0.0034067475, y: 0.015484393, z: -0.00043192744}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:RightShoulder
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Guides
+      position: {x: 0.0031080195, y: 0.037100866, z: -0.0011930607}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:RightToeBase
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Guides
+      position: {x: 0.0033793345, y: 0.0008099021, z: 0.0039181258}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:RightUpLeg
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Guides
+      position: {x: 0.0031838487, y: 0.02694275, z: -0.00019533373}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:Spine
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Guides
+      position: {x: 0.0000065445897, y: 0.03137339, z: -0.0008285646}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:Spine1
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Guides
+      position: {x: 0.0000065445897, y: 0.034104146, z: -0.0010012463}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:Spine2
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Guides
+      position: {x: 0.0000065445897, y: 0.036150858, z: -0.001118954}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Reference
+      parentName: dreaming girl idle v2(Clone)
+      position: {x: 0.0000065445897, y: 0.0011431135, z: -0.00037321652}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Hips
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Reference
+      position: {x: -0.0003311842, y: 0.027886672, z: -0.00044685858}
+      rotation: {x: -0.4877141, y: 0.5231673, z: 0.489705, w: -0.49861804}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_LeftUpLeg
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Hips
+      position: {x: 0.002059153, y: 0.00017451365, z: 0.0031773096}
+      rotation: {x: 0.021303235, y: 0.031256847, z: 0.99905264, w: 0.021519167}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_LeftLeg
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_LeftUpLeg
+      position: {x: -0.011462978, y: -0.0000000070315056, z: -0.0000000032412566}
+      rotation: {x: -0.01000951, y: 0, z: -0, w: 0.99994993}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_LeftFoot
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_LeftLeg
+      position: {x: -0.012242535, y: -0.0000000076369755, z: 0.0000000104657385}
+      rotation: {x: 0.008823918, y: 0.011163234, z: 0.47877362, w: 0.87782305}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_LeftToeBase
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_LeftFoot
+      position: {x: -0.004855473, y: -9.964571e-10, z: 0.0000000025504174}
+      rotation: {x: 0.016771778, y: -0.0046930425, z: -0.012162273, w: 0.9997744}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_RightUpLeg
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Hips
+      position: {x: 0.002059155, y: 0.00017451403, z: -0.003177308}
+      rotation: {x: -0.03146615, y: 0.026051383, z: -0.022960061, w: 0.9989014}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_RightLeg
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_RightUpLeg
+      position: {x: 0.011462975, y: 0.0000002756298, z: 0.000000027433456}
+      rotation: {x: 0.004770529, y: 0.0000017462617, z: -0.00012527821, w: 0.9999886}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_RightFoot
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_RightLeg
+      position: {x: 0.012242532, y: 0.0000000017445485, z: 0.0000000016616134}
+      rotation: {x: -0.01154505, y: -0.008999001, z: 0.48330125, w: 0.87533176}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_RightToeBase
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_RightFoot
+      position: {x: 0.004855469, y: -0.0000000029493132, z: 4.050261e-10}
+      rotation: {x: -0.01674534, y: 0.0046923812, z: -0.012163729, w: 0.9997748}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Spine
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Hips
+      position: {x: -0.0024131027, y: -0.0000000019115047, z: -6.752872e-10}
+      rotation: {x: 0, y: -0, z: -0.019901834, w: 0.99980193}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Spine1
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Spine
+      position: {x: -0.0027362143, y: -3.163944e-10, z: -3.000399e-11}
+      rotation: {x: 0, y: -0, z: -0.002852197, w: 0.99999595}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Spine2
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Spine1
+      position: {x: -0.0020500936, y: -2.1554976e-10, z: -1.3558736e-11}
+      rotation: {x: 0, y: -0, z: -0.003599919, w: 0.99999356}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_LeftShoulder
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Spine2
+      position: {x: -0.0009525334, y: -0.000026297846, z: 0.0031014765}
+      rotation: {x: -0.4706359, y: 0.5303773, z: 0.491407, w: 0.50568855}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_LeftArm
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_LeftShoulder
+      position: {x: -0.002, y: -0.0003, z: -0.0012}
+      rotation: {x: 0.59440523, y: 0.44292146, z: 0.38643834, w: 0.54878813}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_LeftForeArm
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_LeftArm
+      position: {x: -0.0085, y: -0.0007, z: 0.0001}
+      rotation: {x: 0.003909573, y: -0.0400233, z: -0.2112883, w: 0.9765962}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_LeftHand
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_LeftForeArm
+      position: {x: -0.0079, y: -0.0015, z: -0.0002}
+      rotation: {x: -0.23094198, y: -0.009138108, z: -0.014826111, w: 0.97281164}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_RightShoulder
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Spine2
+      position: {x: -0.0009525344, y: -0.000026297694, z: -0.0031014755}
+      rotation: {x: 0.5541127, y: 0.47000697, z: -0.48020324, w: 0.4913833}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_RightArm
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_RightShoulder
+      position: {x: 0.0028, y: 0, z: 0.0003}
+      rotation: {x: 0.5694694, y: 0.3984139, z: 0.41900513, w: 0.5842993}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_RightForeArm
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_RightArm
+      position: {x: 0.0103, y: -0, z: 0.0007}
+      rotation: {x: 0.014542641, y: 0.008043062, z: -0.22884056, w: 0.97332203}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_RightHand
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_RightForeArm
+      position: {x: 0.0078, y: 0, z: 0.0006}
+      rotation: {x: -0.008363753, y: 0.012420589, z: -0.012209188, w: 0.9998133}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Neck
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Spine2
+      position: {x: -0.0040620044, y: -2.0395012e-10, z: -0.00000000103678}
+      rotation: {x: 0.011815451, y: -0.012794818, z: -0.039615937, w: 0.9990632}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Head
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Neck
+      position: {x: -0.0041921763, y: 6.2797106e-10, z: -8.4863205e-10}
+      rotation: {x: 0.012165152, y: -0.0124629345, z: -0.012162295, w: 0.99977434}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Reference
+      parentName: dreaming girl idle v2(Clone)
+      position: {x: 0.0000065445897, y: 0.0011431135, z: -0.00037321652}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_HipsEffector
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Reference
+      position: {x: -0.0003906755, y: 0.025838062, z: -0.00018185697}
+      rotation: {x: 0.029282046, y: -0.011947067, z: -0.012672134, w: 0.99941945}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_LeftAnkleEffector
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Reference
+      position: {x: -0.0032060044, y: 0.002217991, z: -0.00024000066}
+      rotation: {x: 0.023080401, y: 0.012393674, z: -0.0067299646, w: 0.99963415}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_RightAnkleEffector
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Reference
+      position: {x: 0.0033689206, y: 0.0020571218, z: -0.00016651615}
+      rotation: {x: 0.019290024, y: 0.021406107, z: -0.0015246005, w: 0.9995836}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_LeftWristEffector
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Reference
+      position: {x: -0.024614913, y: 0.033033613, z: 0.017028376}
+      rotation: {x: -0.25650838, y: 0.0787294, z: 0.61131006, w: 0.7445168}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_RightWristEffector
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Reference
+      position: {x: -0.0035205728, y: 0.033035938, z: 0.016541936}
+      rotation: {x: -0.10799443, y: -0.16358198, z: -0.611558, w: 0.76653445}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_LeftKneeEffector
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Reference
+      position: {x: -0.0033919504, y: 0.014459118, z: -0.00024793763}
+      rotation: {x: -0.000401181, y: 0.010154708, z: 0.0075907717, w: 0.9999196}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_RightKneeEffector
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Reference
+      position: {x: 0.003067386, y: 0.014295894, z: -0.0001314662}
+      rotation: {x: 0.0012379864, y: 0.01569285, z: 0.012336931, w: 0.99979997}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_LeftElbowEffector
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Reference
+      position: {x: -0.022737592, y: 0.039937247, z: 0.013847954}
+      rotation: {x: -0.06806764, y: 0.22479545, z: 0.57390213, w: 0.7845191}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_RightElbowEffector
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Reference
+      position: {x: -0.0052312496, y: 0.04001453, z: 0.013431904}
+      rotation: {x: -0.10678415, y: -0.19057107, z: -0.5952651, w: 0.7732654}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_ChestOriginEffector
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Reference
+      position: {x: -0, y: 0.030230274, z: -0.00045534808}
+      rotation: {x: -1.3877788e-17, y: -5.890379e-17, z: -5.18972e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_ChestEndEffector
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Reference
+      position: {x: -0, y: 0.035957754, z: -0.00081984414}
+      rotation: {x: 5.2041704e-17, y: -5.822921e-17, z: -5.265297e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_LeftFootEffector
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Reference
+      position: {x: -0.0031373277, y: -0.0004069013, z: 0.0038442172}
+      rotation: {x: 0.035166174, y: 0.02505088, z: -0.018749362, w: 0.99889153}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_RightFootEffector
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Reference
+      position: {x: 0.0035394155, y: -0.0005364863, z: 0.0039346684}
+      rotation: {x: 0.031201601, y: 0.034077603, z: -0.0137014175, w: 0.99883807}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_LeftShoulderEffector
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Reference
+      position: {x: -0.020035122, y: 0.049838495, z: 0.01371758}
+      rotation: {x: 0.051448274, y: 0.043871965, z: 0.6150038, w: 0.7856199}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_RightShoulderEffector
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Reference
+      position: {x: -0.0081915315, y: 0.049838495, z: 0.01371758}
+      rotation: {x: 0.010784194, y: 0.011946955, z: -0.6064527, w: 0.79495674}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_HeadEffector
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Reference
+      position: {x: -0.014113326, y: 0.057337616, z: 0.013781707}
+      rotation: {x: 0.031512335, y: -0.0119187785, z: -0.012698777, w: 0.9993516}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_LeftHipEffector
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Reference
+      position: {x: -0.0035660577, y: 0.025920765, z: -0.0002553739}
+      rotation: {x: -0.00047259222, y: 0.020163015, z: 0.007586802, w: 0.99976784}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_RightHipEffector
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Reference
+      position: {x: 0.0027847048, y: 0.025755357, z: -0.00010833963}
+      rotation: {x: 0.0007477234, y: 0.020458026, z: 0.012348085, w: 0.9997142}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Hips
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Reference
+      position: {x: -0.00033118328, y: 0.027886672, z: -0.00044685882}
+      rotation: {x: 0.029282045, y: -0.0119470665, z: -0.012672134, w: 0.99941945}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_LeftUpLeg
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Hips
+      position: {x: -0.0031773043, y: -0.002030313, z: 0.00038522136}
+      rotation: {x: -0.029912425, y: 0.032311767, z: 0.019666819, w: 0.9988366}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_LeftLeg
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_LeftUpLeg
+      position: {x: -0, y: -0.011462969, z: 0}
+      rotation: {x: -0.0000045447114, y: -0.010009583, z: -0.00000047224876, w: 0.99994993}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_LeftFoot
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_LeftLeg
+      position: {x: -0, y: -0.0122425305, z: 0}
+      rotation: {x: 0.023641998, y: 0.0020691871, z: -0.0140780695, w: 0.99961925}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_LeftToeBase
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_LeftFoot
+      position: {x: -0.000000002682209, y: -0.002433111, z: 0.004201846}
+      rotation: {x: 0.012162274, y: 0.012465705, z: -0.012162343, w: 0.99977434}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_RightUpLeg
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Hips
+      position: {x: 0.0031773043, y: -0.002030313, z: 0.00038522136}
+      rotation: {x: -0.028638106, y: 0.03276085, z: 0.02440144, w: 0.9987548}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_RightLeg
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_RightUpLeg
+      position: {x: 5.9604643e-10, y: -0.011462969, z: 0.00000011213123}
+      rotation: {x: 0.00043144598, y: -0.004771633, z: 0.0000013792338, w: 0.99998856}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_RightFoot
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_RightLeg
+      position: {x: -2.9802322e-10, y: -0.0122425305, z: 0}
+      rotation: {x: 0.018336706, y: 0.0054756436, z: -0.013579873, w: 0.9997247}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_RightToeBase
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_RightFoot
+      position: {x: 0.00000035226344, y: -0.002433111, z: 0.004201846}
+      rotation: {x: 0.01216234, y: 0.012465451, z: -0.012162339, w: 0.9997744}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Spine
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Hips
+      position: {x: -0, y: 0.0024003242, z: -0.0002480095}
+      rotation: {x: 2.7061686e-16, y: 5.18972e-17, z: 5.2118513e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Spine1
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Spine
+      position: {x: -0, y: 0.0027307582, z: -0.00017268173}
+      rotation: {x: 3.8163916e-17, y: 1.1721358e-16, z: -6.557579e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Spine2
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Spine1
+      position: {x: -0, y: 0.0020467115, z: -0.0001177077}
+      rotation: {x: 1.5959456e-16, y: -5.822921e-17, z: -1.6367527e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_LeftShoulder
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Spine2
+      position: {x: -0.0031014748, y: 0.0009500098, z: -0.000074106676}
+      rotation: {x: 0.01264597, y: -0.011609233, z: -0.012511767, w: 0.99977434}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_LeftArm
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_LeftShoulder
+      position: {x: -0.0028203144, y: -0.00019783973, z: 0.00008246101}
+      rotation: {x: 0.03896658, y: 0.053116795, z: 0.6138313, w: 0.7866838}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_LeftForeArm
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_LeftArm
+      position: {x: -0.010264258, y: 0, z: 0}
+      rotation: {x: 0.003909604, y: 0.2112884, z: -0.04002358, w: 0.9765962}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_LeftHand
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_LeftForeArm
+      position: {x: -0.0078294, y: 4.440892e-18, z: 0}
+      rotation: {x: -0.23094173, y: 0.014825967, z: -0.00913811, w: 0.9728117}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_RightShoulder
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Spine2
+      position: {x: 0.0031014748, y: 0.0009500098, z: -0.000074106676}
+      rotation: {x: 0.011608795, y: -0.013310658, z: -0.011802601, w: 0.99977434}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_RightArm
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_RightShoulder
+      position: {x: 0.0028203144, y: -0.00019783973, z: 0.00008246101}
+      rotation: {x: -0.0019643765, y: 0.002735124, z: -0.6063059, w: 0.79522437}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_RightForeArm
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_RightArm
+      position: {x: 0.010264258, y: 0, z: 0}
+      rotation: {x: 0.014542624, y: -0.22884035, z: -0.008043371, w: 0.9733221}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_RightHand
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_RightForeArm
+      position: {x: 0.0078294, y: -0.0000000023841857, z: 1.3877787e-19}
+      rotation: {x: -0.008363734, y: -0.012209127, z: -0.012420332, w: 0.9998133}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Neck
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Spine2
+      position: {x: -0, y: 0.0040568756, z: -0.00020401932}
+      rotation: {x: 0.014393459, y: -0.012131688, z: -0.012495533, w: 0.9997447}
+      scale: {x: 1, y: 1, z: 1}
+    - name: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Head
+      parentName: smooth_animated_girl:Dreaming_girl_animation4:QuickRigCharacter_Ctrl_Neck
+      position: {x: -0, y: 0.004192152, z: 0.00000094383955}
+      rotation: {x: 0.012162354, y: -0.012162351, z: -0.012465694, w: 0.99977434}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 0
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
